@@ -1,6 +1,6 @@
 package com.example.cs174project.controller;
 
-import com.example.cs174project.dao.CustomerDAO;
+import com.example.cs174project.entity.dao.CustomerDAO;
 import com.example.cs174project.entity.Customer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

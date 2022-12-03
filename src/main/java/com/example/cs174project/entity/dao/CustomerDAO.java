@@ -1,4 +1,4 @@
-package com.example.cs174project.dao;
+package com.example.cs174project.entity.dao;
 
 import java.sql.*;
 import java.util.UUID;
