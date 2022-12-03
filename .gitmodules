@@ -1,0 +1,3 @@
+[submodule "CS174Proj"]
+	path = CS174Proj
+	url = git@github.com:jvillarante/CS174Proj.git
